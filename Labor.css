@@ -1,0 +1,66 @@
+		body{
+			background-color: white;
+			margin: 0;
+		}
+		header {
+			text-align: center;
+			color: black;
+			font-family: verdana;
+		}
+		header .judul{
+			text-align: center;
+			margin-left: 150px;
+		}
+		header p{
+			text-align: center;
+		}
+		nav.Menu ul li {
+			margin-left:100px;
+			float: left;
+			
+		}
+		nav.Menu ul a {
+			padding:25px;
+			display:block;
+			font-size: 16px;
+			color:black;
+			text-decoration: none;
+		}
+		nav.Menu ul a:hover {
+			text-decoration: underline;
+			background:white;
+		}
+		nav.Menu ul {
+			overflow:hidden;
+			color:#fff;
+			list-style: none;
+			float:left;
+			padding:0;
+			width: 100%;
+			margin:0 0 0;
+			background: orange;
+		}
+
+		.badan{
+		height: 450px;
+		margin-bottom: 50px;
+		}
+		.badan .article{
+			text-align: center;
+		}
+		.badan h2{
+			font-family: verdana;
+			text-align: center;
+		}
+		.badan p, li{
+			font-family: verdana;
+		}
+		.footer{
+	background-color: #333;
+	padding: 20px;
+	}
+	.footer .copy{
+	color: white;
+	text-align: center;
+	font-size: 12px;
+}

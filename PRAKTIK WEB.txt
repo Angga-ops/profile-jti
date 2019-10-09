@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Web Profile</title>
+	<style type="text/css">
+		header {
+			text-align: center;
+			color: black;
+		}
+		header .judul{
+			color: #ffffff;
+		}
+		nav.menu ul li {
+			margin:0;
+			float:left;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1 class="Judul"> TEKNIK INFORMATIKA POLINDRA</h1>
+		<p class="Alamat">Alamat Jl.Lohbener Lama No. 08 Indramayu Telp (0234) 5746464 Email: ti@polindra.ac.id</p>
+	</header>
+	<div class="wrap">
+		<nav class="Menu">
+			<ul>
+				<li><a href="#">Menu</a></li>
+				<li><a href="#">Info</a></li>
+				<li><a href="#">Visi dan Misi</a></li>
+				<li><a href="#">Profil Lulusan</a></li>
+			</ul>
+		</nav>
+
+	</div>
+</body>
+</html>
+
+https://www.malasngoding.com/membuat-template-web-responsive-dengan-html-dan-css/
